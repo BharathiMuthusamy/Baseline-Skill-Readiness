@@ -1,1 +1,32 @@
+Introduction
+
+This document is created to help practice basic Python tasks such as text processing, extraction, and simple data operations.
+
+Section 1: Overview
+
+Python is widely used for automation, data science, machine learning, and application development. It is known for its readability and flexibility.
+
+Figure 1.1: Workflow Diagram
+
+The workflow shows how data moves from input to processing and finally to output.
+
+Table 1.1: Example Data Table
+ID	Name	Value
+1	Alpha	10
+2	Beta	20
+Section 2: Analysis
+
+Python provides powerful libraries that help with text processing. Many students start with Python because the syntax is simple and forgiving.
+
+Figure 2.1: Data Flow Illustration
+
+This figure represents how data travels through multiple stages of transformation.
+
+Table 2.1: Sample Metrics
+Metric	Score
+Speed	92
+Cost	75
+Section 3: Practice Paragraph
+
+Python is an incredibly adaptable programming language that enables developers to construct applications in a remarkably straightforward and elegant manner. Its extensive ecosystem of libraries empowers programmers to automate sophisticated workflows, analyze multidimensional scientific datasets, and engineer innovative machine learning systems.
 
