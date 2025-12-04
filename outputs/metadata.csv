@@ -1,2 +1,2 @@
 number_of_lines,five_largest_words,number_of_headings,lines_mentioning_figures_or_tables,number_of_figure_references,number_of_table_references
-33,"['multidimensional', 'transformation.', 'straightforward', 'sophisticated', 'Introduction']",7,"['Table', 'Table']",0,2
+33,"['multidimensional', 'transformation.', 'straightforward', 'sophisticated', 'Introduction']",7,"['Figure 1.1: Workflow Diagram', 'Table 1.1: Example Data Table', 'Figure 2.1: Data Flow Illustration', 'Table 2.1: Sample Metrics']",2,2

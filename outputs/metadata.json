@@ -9,9 +9,11 @@
     ],
     "number_of_headings": 7,
     "lines_mentioning_figures_or_tables": [
-        "Table",
-        "Table"
+        "Figure 1.1: Workflow Diagram",
+        "Table 1.1: Example Data Table",
+        "Figure 2.1: Data Flow Illustration",
+        "Table 2.1: Sample Metrics"
     ],
-    "number_of_figure_references": 0,
+    "number_of_figure_references": 2,
     "number_of_table_references": 2
 }
