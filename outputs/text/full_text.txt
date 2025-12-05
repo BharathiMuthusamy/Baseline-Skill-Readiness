@@ -1,0 +1,437 @@
+1 / 15
+Mineralogy and geochemistry of iron tailings from Yeshan iron Deposit,
+Southwest Jiangsu, China: Implications for potential utilization
+Gang Yang1,2, Quanmin Xie1, Yidi Li1, Ranjith Kumar Easwaran5, Fang Liu3,4,*, Mei Yang2,*
+1State Key Laboratory of Precision Blasting, Jianghan University, Wuhan, 430056, China
+2Faculty of Materials Science and Chemistry, China University of Geosciences (Wuhan), Wuhan 430074, China
+3School of Literature, Law and Economics, Wuhan University of Science and Technology, Wuhan 430081, China
+4Wuhan Explosion and Blasting Co., Ltd., Wuhan, 430056, China
+5Department of Physics, KPR Institute of Engineering and Technology, Coimbatore 641407, Tamilnadu, India
+Corresponding author：
+Mei Yang, e-mail, yangmeicug@126.com
+Fang Liu, e-mail, francis_liu@live.cn
+Abstract
+In this work, twenty-one core samples of tailings wastes were collected from Yeshan iron tailings
+pond in Jiangsu Province, China. The mineralogical-chemical properties of Yeshan iron ore tailings
+(IOTs) were investigated to explore potential utilization. Mineralogical investigations and mineral
+liberation analysis indicated that the iron tailings have complex texture and incomplete mineral
+liberation, suggesting further grinding can improve higher recovery. Yeshan IOTs accumulated much
+higher MgO originating from dolomite, therefore, it could be infeasible to utilize a large quantity of
+Yeshan IOTs as alternative raw meals for cement clinker or replace aggregates in concrete. 2D
+vertical distribution profiles created with the ordinary Kriging method presented heterogeneous
+distributions of major elements, and the variation trends were inconsistent. The results obtained in
+this work provide insight for exploiting and reducing Yeshan IOTs.
+keywords: tailings wastes; mineralogy; geochemistry; spatial distribution; potential utilization
+2 / 15
+1. Introduction
+The mining industry is a cornerstone of modern society. However, large amounts of mine tailings
+are deposited on the land surface, cover a vast area, bring environmental pollution problems1-3. In
+addition, the management of IOTs pond demands for extra time, human resources and money4. More
+seriously, the IOTs dam is a potential safety hazard, threatening people’s safety, lives, and property.
+For instance, in 2019, an IOTs dam collapsed in Brazil caused 235 people death and 35 people
+missing5. The management of IOT is still one of the major social issues worldwide. In China, the
+reserves of IOTs have reached approximately 5 billion tons, whereas less than 20% of them has been
+reused6, 7. The "Plan for Preventing and Resolving Safety Risks in Tailings Ponds" jointly issued by
+eight ministries and commissions in 2020 stipulates that the number of tailings ponds in China will
+no longer increase, and new "overhead ponds" are strictly forbidden. Iron tailings have gradually
+become a key factor restricting the sustainable development of mining firms. Therefore, it is urgent
+to realize great utilization of iron tailings and achieve the purpose of reduction, harmless disposal
+and recycling treatment.
+The application of mineralogical and geochemical characterization to mine waste can contribute to
+improve risk assessment, guide appropriate mine planning for active mines and optimize remediation
+design at abandoned mines8, 9. Accordingly, prior to choosing a tailing disposal and management
+strategy and optimizing an environmental remediation design, it is vital to understand the
+geochemical and mineralogical properties of tailings10-14. With these essential and previously
+research, experiments on utilizing tailings wastes are performed more efficiently and intentionally.
+These successful studies can be categorized into developing alternative materials for building
+materials15, 16 and ceramics17, 18, and biological reclamation19, 20.
+In recent years, minimizing the volume of tailings generated in the original place and maximizing
+opportunities for alternative uses of tailings have been highly appreciated21, 22. It requires us to have
+better understanding of geochemical and mineralogical properties of tailings. In this work, we
+applied an in-situ sampling approach, coupling mineralogical techniques, major element analysis,
+and visual technology. The properties of iron ore tailings from Yeshan iron deposit were investigated
+from the perspective of mineralogy and geochemistry to explore the potential utilization, which is
+beneficial for management to develop robust strategies.
+3 / 15
+2. Materials and Methods
+2. 1 Geology and study area
+As shown in Fig. 1, the Yeshan iron tailings pond is located 40 kilometers north of the Nanjing
+region of Jiangsu Province, China. The Nanjing region has a subtropical monsoon climate with four
+distinct seasons. The average temperatures in January and July were 2.2 °C and 28.6 °C,
+respectively23. The tailings wastes are deposited in a small valley, and the height of the tailings pond
+is from 78 m to 119 m above sea level. Yeshan iron ore is a hydrothermal metasomatic skarn deposit,
+thus, the composition of the original iron ore is very complicated. The principal metallic minerals are
+magnetite and hematite, followed by limonite, pyrite and chalcopyrite. Gangue minerals are mainly
+serpentine, dolomite and quartz, and small amounts of mica, kaolin, chlorite, etc. The tailings pond
+deposits more than 6 million cubic meters of iron tailings wastes.
+Fig. 1. Map showing the Yeshan iron tailings location and the sample collection sites in the tailings pond (image
+courtesy of Google Earth).
+4 / 15
+2.2. Sampling strategy
+Core samples of tailings wastes were collected in-situ from three boreholes. As shown in Fig. 1,
+the sampling sites, P1, P2, and P3, were on a straight line and arranged along northwest to southeast
+transects. Elevation differences among the sampling sites were less than 0.6 m. With a drilling
+machine, core samples from each borehole were collected per 4 meters until the crushed rock layer.
+The detailed sampling information is listed in Table 1. The samples were collected to meet the
+following requirements of the study: (i) to cover the surface and bottom of the waste deposit; (ii) to
+collect sufficient samples for a statistical analysis of data. Altogether, twenty-one tailings samples,
+approximately 3.0 kg in weight, were obtained and transferred to the laboratory. All collected tailings
+samples were air-dried after homogenization. Lumps were broken apart and passed through a 2 mm
+sieve to eliminate gravels and roots of plants. Finally, each sample was sealed in a hermetic plastic
+bag with an identified number. Aliquots (ca. 300 g) of subsamples taken from each sample
+constituted the mixed sample.
+Table 1
+The detailed information for sampling in Yeshan iron tailings pond.
+sampling
+site
+Depth
+/m
+Number of
+Samples
+Description
+P1
+27.8
+5
+from 0 to 24 m, tailings; from 24 to 25 m, claypan; over 25 m, crushed rock.
+P2
+40
+7
+from 0 to 34.5 m, tailings; from 34.5 to 36.4 m, claypan; over 36.40 m crushed rock.
+P3
+45.1
+9
+from 0 to 35 m, tailings; from 35 to 41 m, claypan; over 41 m crushed rock.
+2.4 Mineralogical analysis
+Subsamples and the mixed sample were analyzed by X-ray diffraction using a Bruker AXS
+D8-Focus diffractometer with Cu Kα radiation (λ = 1.5406 Å). X-ray diffraction data were collected
+between 5° and 60° with a step size of 0.02°. The crystalline phases were identified by matching
+peak positions of the intense peaks with those on PCPDF standard cards.
+Based on scanning electron microscope (SEM) and energy dispersive spectrometer (EDS), the
+advanced mineral liberation analysis (MLA) system can provide detailed information about a wide
+variety of mineralogical characteristics, for instance, mineral identification, grain size distribution,
+mineral texture and association, and degree of mineral liberation 24. Therefore, the MLA technique is
+increasingly applied to analyses of tailings wastes mineralogical properties. MLA was performed
+5 / 15
+with SEM (Quanta 650, FEI, Netherlands), EDS (Quantax 200, Bruker, Germany) and mineral
+parameter automatic analysis software version 2.0.
+2.5 Geochemical analysis
+Quantitative analysis of the major elements was determined by X-ray fluorescence spectroscopy
+(XRF, Axios, Netherlands). A subset of each sample, with a mass of 10.0 g, was ground to a fraction
+less than 74 μm. A total of 8.0 g of each sample with 2.0 g of organic binder was further ground and
+homogenized using a mill. The organic binder consisted of 90 wt.% cellulose and 10 wt.% wax. Then,
+the mixtures were placed in an aluminum cup and pressed into pellets under a pressure of 15 MPa for
+60 seconds. This step ensured sample integrity under vacuum and a consistent surface to receive the
+X-rays.
+Inductively coupled plasma mass spectrometry (ICP-MS, Analytik Jena AG, PlasmaQuant MS)
+was applied to determine trace elements in the extracts. Briefly, 0.10 g of ground sample was placed
+in a clean 50 ml digestion tube and then digested with 8 ml aqua regia, a mixed solution of 96%
+HNO3 and 36% HCl with a volume ratio of 1:1. The digestion process was performed at 140-160 ℃
+until a white precipitate remained at the bottom of the tube. Then, the digested residuum was
+dissolved in 1% HNO3, and transferred to a volumetric flask and diluted to 50 ml. Blank sample
+values from mixed acids prepared in the same way were corrected for the measured data.
+3. Results and Discussion
+3.1. Mineralogical properties
+The grain size distribution of mineralogical phases was evaluated from the scanning BSE images
+with the MLA system. As shown in Fig. 2, the proportions of individual minerals, including
+magnetite, limonite, siderite, pyrite, and chalcopyrite, were categorized with a distribution histogram
+for vol.%. The grain size distributions are similar in magnetite, limonite and siderite, which are
+concentrated in the < 20 μm population. Pyrite and chalcopyrite were the primary sulfide minerals
+that occurred with variable size fractions. Both were mainly concentrated in the 80~160 μm range,
+accounting for approximately 30 vol.%.
+6 / 15
+Fig. 2. Particle size distributions of mineralogical phases.
+Fig. 3. X-ray diffraction patterns:(A) a typical XRD pattern of the mixture sample; (B) XRD patterns of 5 samples
+from borehole P1; (C) XRD patterns of 7 samples from borehole P2; (D) XRD patterns of 9 samples from borehole
+P3.
+Fig. 3(A) shows a typical X-ray diffraction pattern of the mixed sample. Careful XRD
+investigation revealed that Yeshan IOTs consisted chiefly of dolomite, quartz, magnetite, muscovite,
+serpentine, and chlorite. The XRD patterns from borehole P1-P3 samples are shown in Fig.3 (B), (C),
+and (D), respectively. The diffraction peaks of the patterns were basically consistent, however, the
+significantly different intensities of diffraction peaks indicated the various contents of mineral phases
+in these samples. This phenomenon occurred not only in different sampling regions, but also at
+7 / 15
+different depths in the same borehole.
+Table 2 Quantitative mineralogy of the mixed sample determined by the MLA system
+Mineral
+Ideal formula
+Content/
+wt.%
+dolomite
+CaMg(CO3)2
+22.8±1.1
+serpentine
+Mg6[Si4O10](OH)8
+16.9±1.0
+magnetite
+Fe3O4
+9.6±0.9
+quartz
+SiO2
+8.7±0.9
+K-feldspar
+KAlSi3O8
+6.8±0.7
+chlorite
+（Mg,Fe)5Al[AlSi3O10](OH)8
+6.2±0.6
+muscovite
+KAl2[AlSi3O10](OH)2
+5.7±0.6
+diopside
+Ca2Mg5[Si8O22](OH)2
+4.8±0.5
+calcite
+CaCO3
+4.1±0.4
+pyrite
+FeS2
+3.3±0.3
+talc
+Mg3[Si4O10](OH)2
+3.2±0.3
+siderite
+FeCO3
+2.1±0.2
+limonite
+FeO(OH)
+1.8±0.2
+epidote
+Ca2FeAl2[Si2O7][SiO4]O(OH)
+1.2±0.1
+ankerite
+Ca(Fe,Mg,Mn)(CO3)2
+1.2±0.1
+magnesite
+MgCO3
+0.8±0.2
+chalcopyrite
+CuFeS2
+0.7±0.2
+As listed in Table 2, the mineral phases of mixed IOTs identified by the MLA system were
+consistent with the XRD results. However, some minor phases (e.g., K-feldspar, diopside, siderite,
+pyrite, etc.) were observed in thin sections because of the higher precision compared with XRD.
+After iron ore extraction, the magnetite content was still 9.6±0.9 wt.%, while other iron-bearing
+minerals, such as pyrite, siderite and limonite, were also detected. The gangue minerals were
+dominated by dolomite and serpentine, which accounted for 22.8±1.1 and 16.9±1.0 wt.%, followed
+by quartz, K-feldspar and chlorite with contents of 8.7±0.9, 6.8±0.7, and 6.2±0.6 wt.%,
+respectively. The proportions of muscovite, diopside, calcite, and talc ranged from 3.2 to 5.7 wt.%.
+3.2 Mineral morphologies
+The MLA system can provide valuable information on textural features of mineral assemblages on
+the micrometer scale. According to the gray values of BSE images, the intelligent software can
+identify individual phases based on an adequate mineral standard database25. The BSE images with
+the automatic diagnoses of minerals given by the MLA system are shown in Fig. 4.
+As presented in Fig. 4 (A), magnetite grains generally range from 10 to 200 μm in cross-section,
+8 / 15
+with a maximum of approximately 500 μm. Fine-grained and subhedral magnetite crystals were
+observed as occlusions with transparent minerals. At the same time, Fig. 4 (B) shows that the
+sectional coarse-grained magnetite crystals enfolded some gangue minerals. Multimineral
+intergrowths of pyrite with limonite, hematite and siderite were also observed. Fig. 4 (C) shows the
+complicated intergrowths of pyrite and limonite with crisscrossing grain boundaries. Fig. 4 (D)
+shows that irregular siderite aggregations occurred between hematite and pyrite. Fine-grained
+hematite possessing magnetite crystal shapes (Fig. 4 (E)), was enfolded by brucite. Chalcopyrite was
+observed in association with serpentine (Fig. 4 (F)). The investigation of mineral morphologies
+revealed that mineral liberation from tailings wastes was not completed and further grinding iron ore
+is necessary for higher recovery. Despite a few intergrowths existing in different minerals, the
+textural structures will allow easy liberation of the constituent mineral phases, suggesting the
+feasibility of recycling valuable metals from Yeshan IOTs.
+Fig. 4. BSE images from the MLA system: (A) magnetite is locked in serpentine; (B) serpentine is
+enriched in coarse-grained magnetite crystals; (C) complicated intergrowth of pyrite and limonite
+with crisscross grain boundaries; (D) irregular siderite aggregations occur between hematite and
+pyrite; (E) fine-grained hematite is enriched in brucite; (F) intergrowth of chalcopyrite and
+serpentine.
+9 / 15
+3.3. Geochemical characteristics
+The major elements were investigated by XRF analysis, and the results are presented in Fig. 5.
+The occurrence of major elements from the measurements followed the order SiO2 > TFe2O3 >
+MgO > CaO > Al2O3 > SO3>K2O, where TFe2O3 denotes the total amount of iron oxide, including
+Fe2O3 and FeO. This order is basically consistent with the mineralogical characteristics, which
+indicated that dolomite serpentine, magnetite, and quartz were the principal minerals. As shown in
+Fig. 6, four typical types of IOTs in China, are, high-silicon IOTs, high-alumina IOTs, high-calcium
+IOTs and high-magnesium IOTs, respectively. The percentage of MgO in Yeshan IOTs is much
+higher than that of high-magnesium IOTs, indicating that Yeshan IOTs are classified as
+high-magnesium IOTs. Small quantities of K2O, Na2O, P2O5, TiO2 and MnO were detected at levels
+less than 1 wt.%. The presence of K and Na cations could be ascribed to chlorite, K-feldspar and
+muscovite, while the phosphorus was presumably contributed by apatite. It is suspected that Ti
+substitutes for Al in aluminosilicate phases due to their similar atomic radii.
+Fig. 5. Box and whisker plots for (A) major elements with contents more than 3 wt.% and (B)
+elements with contents less than 2 wt.%.
+Fig. 6. Major components of Yeshan IOTs, compared with four typical types of IOTs in China.
+10 / 15
+A number of recent studies indicate that IOTs can be utilized as industrial raw materials to
+produce green and sustainable industrial products 26-30. However, the extremely high content of MgO
+and high content of SO3 in Yeshan IOTs could bring a huge challenge for using Yeshan IOTs as
+alternative raw meals to produce cement. It has been confirmed that abundant MgO and SO3 in raw
+meals have negative effects on the formation of cement clinker31, 32. Additionally, a large quantity of
+dolomite and serpentine, and relatively abundant clay minerals exist in Yeshan IOTs, which has
+adverse effects on the performance of concrete if the Yeshan IOTs replace natural fine aggregates in
+concrete. Therefore, using Yeshan IOTs sand for full aggregate replacement of natural gravel in
+cementitious materials could be impractical.
+3.4. Spatial distribution
+The changed composition of raw iron ore at different periods and frequent alterations of sand
+outlet positions can cause the elements to exhibit uneven spatial distributions. IOTs have been used
+as raw materials in construction building materials33, 34, such as cement, concrete, non-burning bricks
+and ceramics. Figuring out the spatial distribution of major elements in tailings ponds is beneficial
+for more efficient and reasonable management and utilization of tailings. Ordinary Kriging35, 36 was
+applied to quantify the spatial variations of elements in the tailings pond. Enrichment locations of the
+elements can be determined visually and accurately with the support of a 2D vertical profile, which
+can provide essential information for exploiting Yeshan IOTs in the future.
+Based on the chemical composition data at each sampling site, the spatial distribution maps are
+presented in Fig. 7. Here, the P1 site was defined as the ordinate origin, and the orientation of the
+x-axis was from P1 to P3. At the same time, Pearson correlation analysis was applied to preliminarily
+determine correlations between the concentrations of major elements. The positive correlation with
+highly significant correlations at p<0.01 and p <0.05 between elements indicates a similar original
+source
+11 / 15
+Fig. 7. Kriging maps of the spatial distribution of major elements in the vertical profile of the Yeshan
+iron tailings pond.
+.
+The kriging maps clearly display that the major elements were distributed unevenly in the tailings
+pond. As shown in Fig. 7, the distributions of Fe2O3 and FeO are exactly the same, concentrating in
+the striped zonation at 6-10 m depth under the topsoil. The distribution of SiO2 is consistent with
+Al2O3, indicating that a large proportion of them come from the same aluminosilicate minerals. In
+Fig. 8, significant positive correlations between Fe2O3 and FeO (r = 0.736, p < 0.01), SiO2 and Al2O3
+(r = 0.986, p < 0.01), also suggest the possible same source of these elements. In addition, high
+contents of SiO2 and Al2O3 were concentrated in the P1 region, and a low content of them were
+dispersed in the bottom layer of the P2 area. The highest concentrations of CaO occurred in the
+bottom layer of the P2 region, while, most MgO accumulated in the bottom layer of the P2 and P3
+regions, and the accumulation region of MgO was obviously larger than that of CaO. MgO exhibited
+12 / 15
+significantly negative correlation with Fe2O3 (r = -0.767, p < 0.01), FeO (r = -0.652, p < 0.01), SiO2
+and Al2O3 (both r = -0.548, p < 0.05). Although part of CaO and MgO comes from the dolomite, the
+CaO distribution was slightly different from that of MgO. The heat map clearly showed that both
+MgO and CaO had highly negative correlations with Fe2O3 (r = -0.767, p < 0.01; r = -0.570, p <
+0.01), however, MgO was weakly correlated with CaO.
+Fig. 8. Heat map of correlations between major elements based on Pearson correlation coefficients
+(n=21). The data is the r values. Blue, white, and red colors denote strong negative correlation, weak
+correlation, and strong positive correlation, respectively. “**” and “*” indicate significant
+correlations at p < 0.01 and p < 0.05, respectively.
+4. Conclusion
+The mineralogy and geochemistry of iron ore tailings from Yeshan iron deposit were investigated
+with an in-situ sampling approach, coupling mineralogical techniques, major element analysis, and
+visual technology. XRD and MLA analyses demonstrated that Yeshan IOTs primarily consisted of
+dolomite, serpentine, magnetite and quartz. The BSE images revealed the complex texture of IOTs
+and incomplete mineral liberation, indicating further grinding of iron ore is necessary for higher
+recovery and feasibility of recycling valuable metals from the IOTs. Owing to a great deal of
+dolomite, serpentine and clay, it could be impractical to replace natural gravel with Yeshan IOTs in
+concrete.
+The major elements present in tailings wastes analyzed by XRF were SiO2, Fe2O3, MgO and CaO.
+Due to high level of MgO, Yeshan IOTs were classified as high-magnesium IOTs. The abundant
+13 / 15
+MgO and SO3 could cause great difficulty in applying Yeshan IOTs as raw cement meals. According
+to the 2D vertical distribution profiles created with the ordinary Kriging method, it is found that most
+of elements accumulated in certain strata and the variation trends were inconsistent. Fe2O3 and FeO,
+SiO2 and Al2O3, showed significant positive correlations, while MgO exhibited a weak correlation
+with CaO. The 2D vertical element distribution profiles can provide visual information about the
+elements for exploiting Yeshan IOTs.
+Author Contribution statement
+G. Yang: Methodology, Formal analysis, Data curation, Writing - original draft, Writing - review
+& editing; Quanmin Xie: Resources, Coordination; Yidi Li: Formal analysis, Data curation; E.
+Ranjith Kumar: Review & editing; Fang Liu: Investigation, Conceptualization, Coordination; Mei
+Yang: Methodology, Resources, Review.
+Declaration of competing interest
+The authors declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this paper.
+Data availability
+Data is uploaded as Supporting for Information only.
+Acknowledgements
+The authors thank Yeshan Mining Co., Ltd. and Wuhan Explosion and Blasting Co., Ltd. for
+supporting this work. The authors also would like to express their appreciation to the anonymous
+reviewer for some constructive suggestions.
+References
+1.
+Nishijima, M.; Rocha, F. F. An economic investigation of the dengue incidence as a result of a tailings dam accident
+in Brazil. J. Environ. Manag. 2020, 253, 109748.
+2.
+Wang, J.; Liu, J.; Li, D.; Chen, C.; Cheng, J. Geochemical distribution and mineralogy of heavy metals in the
+gasification residue of coal-waste activated carbon-slurry: Insights into leaching behavior. J. Hazard. Mater. 2023, 451,
+131146.
+3.
+Kossoff, D.; Dubbin, W. E.; Alfredsson, M.; Edwards, S. J.; Macklin, M. G.; Hudson-Edwards, K. A. Mine tailings
+dams: Characteristics, failure, environmental impacts, and remediation. Appl. Geochem. 2014, 51, 229-245.
+4.
+Zhao, J.; Ni, K.; Su, Y.; Shi, Y. An evaluation of iron ore tailings characteristics and iron ore tailings concrete
+properties. Constr. Buld. Mater. 2021, 286, 122968.
+5.
+Kobayashi, H.; Garnier, J.; Mulholland, D. S.; Quantin, C.; Haurine, F.; Tonha, M.; Joko, C.; Olivetti, D.; Freydier,
+14 / 15
+R.; Seyler, P.; Martinez, J.-M.; Roig, H. L. Exploring a new approach for assessing the fate and behavior of the tailings
+released by the Brumadinho dam collapse (Minas Gerais, Brazil). J. Hazard. Mater. 2023, 448, 130828.
+6.
+Young, G.; Yang, M. Preparation and characterization of Portland cement clinker from iron ore tailings. Constr. Buld.
+Mater. 2019, 197, 152-156.
+7.
+Pan, H.; Zhou, G.; Cheng, Z.; Yang, R.; He, L.; Zeng, D.; Sun, B. Advances in geochemical survey of mine tailings
+project in China. J. Geochem. Explor. 2014, 139, 193-200.
+8.
+Wu, S.; Liu, Y.; Southam, G.; Robertson, L.; Chiu, T. H.; Cross, A. T.; Dixon, K. W.; Stevens, J. C.; Zhong, H.; Chan,
+T.-S.; Lu, Y.-J.; Huang, L. Geochemical and mineralogical constraints in iron ore tailings limit soil formation for direct
+phytostabilization. Sci. Total Environ. 2019, 651, 192-202.
+9.
+Achillas, C.; Moussiopoulos, N.; Karagiannidis, A.; Banias, G.; Perkoulidis, G. The use of multi-criteria decision
+analysis to tackle waste management problems: a literature review. Waste Manag. Res. 2013, 31, 115-129.
+10. Jamieson, H. E.; Walker, S. R.; Parsons, M. B. Mineralogical characterization of mine waste. Appl. Geochem. 2015,
+57, 85-105.
+11. Rey, V.; Ríos, C. A.; Vargas, L. Y.; Valente, T. M. Use of natural zeolite-rich tuff and siliceous sand for mine water
+treatment from abandoned gold mine tailings. J. Geochem. Explor. 2021, 220, 106660.
+12. Queiroz, H. M.; Ruiz, F.; Deng, Y.; de Souza Júnior, V. S.; Ferreira, A. D.; Otero, X. L.; de Lima Camêlo, D.;
+Bernardino, A. F.; Ferreira, T. O. Mine tailings in a redox-active environment: Iron geochemistry and potential
+environmental consequences. Sci. Total Environ. 2022, 807, 151050.
+13. Lemos, M.; Valente, T.; Reis, P. M.; Fonseca, R.; Pantaleão, J. P.; Guabiroba, F.; Filho, J. G.; Magalhães, M.;
+Afonseca, B.; Silva, A. R.; Delbem, I. Geochemistry and mineralogy of auriferous tailings deposits and their potential for
+reuse in Nova Lima Region, Brazil. Scientific Reports 2023, 13, 4339.
+14. Zhang, A.; Bain, J. G.; Schmall, A.; Ptacek, C. J.; Blowes, D. W. Geochemistry and mineralogy of legacy tailings
+under a composite cover. Appl. Geochem. 2023, 159, 105819.
+15. Ma, B.-g.; Cai, L.-x.; Li, X.-g.; Jian, S.-w. Utilization of iron tailings as substitute in autoclaved aerated concrete:
+physico-mechanical and microstructure of hydration products. J. Clean. Prod 2016, 127, 162-171.
+16. Li, X.; Zhang, N.; Yuan, J.; Wang, X.; Zhang, Y.; Chen, F.; Zhang, Y. Preparation and microstructural
+characterization of a novel 3D printable building material composed of copper tailings and iron tailings. Constr. Buld.
+Mater. 2020, 249, 118779.
+17. Li, L.; Jiang, T.; Chen, B.; Zhou, M.; Chen, C. Overall utilization of vanadium–titanium magnetite tailings to
+prepare lightweight foam ceramics. Process Saf. Environ. Prot. 2020, 139, 305-314.
+18. Liu, T.; Lin, C.; Liu, J.; Han, L.; Gui, H.; Li, C.; Zhou, X.; Tang, H.; Yang, Q.; Lu, A. Phase evolution, pore
+morphology and microstructure of glass ceramic foams derived from tailings wastes. Ceram. Int. 2018, 44, 14393-14400.
+19. Xie, L.; van Zyl, D. Distinguishing reclamation, revegetation and phytoremediation, and the importance of
+geochemical processes in the reclamation of sulfidic mine tailings: A review. Chemosphere 2020, 252, 126446.
+20. García-Carmona, M.; García-Robles, H.; Turpín Torrano, C.; Fernández Ondoño, E.; Lorite Moreno, J.; Sierra
+Aragón, M.; Martín Peinado, F. J. Residual pollution and vegetation distribution in amended soils 20 years after a pyrite
+mine tailings spill (Aznalcóllar, Spain). Sci. Total Environ. 2019, 650, 933-940.
+21. Simonsen, A. M. T.; Solismaa, S.; Hansen, H. K.; Jensen, P. E. Evaluation of mine tailings’ potential as
+supplementary cementitious materials based on chemical, mineralogical and physical characteristics. Waste Manag. 2020,
+102, 710-721.
+22. Vaziri, V.; Sayadi, A. R.; Parbhakar-Fox, A.; Mousavi, A.; Monjezi, M. Improved mine waste dump planning
+through integration of geochemical and mineralogical data and mixed integer programming: Reducing acid rock
+generation from mine waste. J. Environ. Manag. 2022, 309, 114712.
+23. Du, P.; Chen, J.; Bai, X.; Han, W. Understanding the seasonal variations of land surface temperature in Nanjing
+15 / 15
+urban area based on local climate zone. Urban Clim. 2020, 33, 100657.
+24. Fandrich, R.; Gu, Y.; Burrows, D.; Moeller, K. Modern SEM-based mineral liberation analysis. Int. J. Miner.
+Process. 2007, 84, 310-320.
+25. Redwan, M.; Rammlmair, D.; Meima, J. A. Application of mineral liberation analysis in studying
+micro-sedimentological structures within sulfide mine tailings and their effect on hardpan formation. Science of The Total
+Environment 2012, 414, 480-493.
+26. Li, N.; Lv, S.; Wang, W.; Guo, J.; Jiang, P.; Liu, Y. Experimental investigations on the mechanical behavior of iron
+tailings powder with compound admixture of cement and nano-clay. Constr. Buld. Mater. 2020, 254, 119259.
+27. Li, C.; Sun, H.; Yi, Z.; Li, L. Innovative methodology for comprehensive utilization of iron ore tailings: Part 2: The
+residues after iron recovery from iron ore tailings to prepare cementitious material. J. Hazard. Mater. 2010, 174, 78-83.
+28. Luo, L.; Zhang, Y.; Bao, S.; Chen, T. Utilization of Iron Ore Tailings as Raw Material for Portland Cement Clinker
+Production. Advances in Materials Science and Engineering 2016, 2016, 1596047.
+29. Han, X.; Wang, Y.; Zhang, N.; Meng, J.; Li, Y.; Liang, J. Facile synthesis of mesoporous silica derived from iron ore
+tailings for efficient adsorption of methylene blue. Colloids and Surfaces A: Physicochemical and Engineering Aspects
+2021, 617, 126391.
+30. Han, X.; Wang, F.; Zhao, Y.; Meng, J.; Tian, G.; Wang, L.; Liang, J. Recycling of iron ore tailings into magnetic
+nanoparticles and nanoporous materials for the remediation of water, air and soil: a review. Environ. Chem. Lett. 2023, 21,
+1005-1028.
+31. Li, X.; Huang, H.; Xu, J.; Ma, S.; Shen, X. Statistical research on phase formation and modification of alite
+polymorphs in cement clinker with SO3 and MgO. Constr. Buld. Mater. 2012, 37, 548–555.
+32. Staněk; Theodor. The Influence of SO3 and MgO on Kinetics of Alite Formation. Procedia Engineering 2016, 151,
+26-33.
+33. Vilela, A. P.; Eugênio, T. M. C.; de Oliveira, F. F.; Mendes, J. F.; Ribeiro, A. G. C.; Brandão Vaz, L. E. V. d. S.;
+Mendes, R. F. Technological properties of soil-cement bricks produced with iron ore mining waste. Constr. Buld. Mater.
+2020, 262, 120883.
+34. Veiga Simão, F.; Chambart, H.; Vandemeulebroeke, L.; Nielsen, P.; Adrianto, L. R.; Pfister, S.; Cappuyns, V. Mine
+waste as a sustainable resource for facing bricks. J. Clean. Prod 2022, 368, 133118.
+35. Liu, L.; Liu, Q.; Ma, J.; Wu, H.; Qu, Y.; Gong, Y.; Yang, S.; An, Y.; Zhou, Y. Heavy metal(loid)s in the topsoil of
+urban parks in Beijing, China: Concentrations, potential sources, and risk assessment. Environ. Pollut. 2020, 260,
+114083.
+36. Yuan, Y.; Xiang, M.; Liu, C.; Theng, B. K. G. Geochemical characteristics of heavy metal contamination induced by
+a sudden wastewater discharge from a smelter. J. Geochem. Explor. 2017, 176, 33-41.
